@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub Yafouze</h1>
 <h3 align="center">A passionate Junior Full Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubdevt" alt="ayoubdevt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubdevt" alt="ayoubdevt" /></a> </p>
 
 - 🔭 I’m currently working as **Junior Full Stack developer**
 
